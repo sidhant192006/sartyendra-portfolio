@@ -1,0 +1,1 @@
+{"name":"satyendra-meil-portfolio","version":"1.0.0","private":true,"scripts":{"dev":"node dev.mjs","build":"node build.mjs"},"dependencies":{"react":"18.3.1","react-dom":"18.3.1"},"devDependencies":{"esbuild":"0.21.5"}}
